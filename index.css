@@ -10,7 +10,8 @@ h1, h2, h3{
 }
 
 h1, h2{
-    color: #EED6D3;
+    /* color: #EED6D3; */
+    color: red;
     margin: 0;
 }
 
